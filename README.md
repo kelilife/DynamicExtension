@@ -1,2 +1,2 @@
 # KeLi.DynamicExtension
-It's used to show how to load plugins.
+It's a dynamic extension system demo.
